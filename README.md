@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # 👋 Hello, I'm Ishan 
 
 🚀 **Passionate about Web Development & Software Engineering**  

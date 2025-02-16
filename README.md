@@ -19,7 +19,8 @@ Here are some of my favorite projects:
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishan01-lx&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/username=ishan01-lx&layout=compact&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishan01-lx&layout=compact&theme=dark&hide=html,css&langs_count=6)
+ 
 
 ## 🏆 GitHub Achievements  
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ishan01-lx&theme=darkhub)  

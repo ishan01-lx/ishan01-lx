@@ -15,7 +15,7 @@ Here are some of my favorite projects:
 
 - 📚 [Library Management System](https://github.com/ishan01-lx/library)  
 - 🌐 [Portfolio Website](ishantasitaula.com.np)  
-- 🔥 Digital CLock(https://ishan01-lx.github.io/DIGITAL_CLOCK/)  
+- 🔥 [Digital clock](https://ishan01-lx.github.io/DIGITAL_CLOCK/)  
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishan01-lx&show_icons=true&theme=dark)  
